@@ -1,0 +1,31 @@
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\DI Demo.staticwebassets.runtime.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\DI Demo.exe
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\DI Demo.deps.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\DI Demo.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\DI Demo.dll
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\bin\Debug\net6.0\DI Demo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.RazorAssemblyInfo.cache
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.RazorAssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\staticwebassets\msbuild.DI Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.DI Demo.props
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DI Demo.props
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DI Demo.props
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\scopedcss\bundle\DI Demo.styles.css
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\scopedcss\projectbundle\DI Demo.bundle.scp.css
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.dll
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\refint\DI Demo.dll
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.pdb
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\DI Demo.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\DI Demo\DI Demo\obj\Debug\net6.0\ref\DI Demo.dll

@@ -1,0 +1,18 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+ 
+    <h1>Player Info</h1>
+    <h2>Name: @IndexModel.newPlayer.Name</h2>
+    <h2>Gender: @IndexModel.newPlayer.Gender</h2>
+    <h2>HairColor: @IndexModel.newPlayer.HairColor</h2>
+    <h2>Age: @IndexModel.newPlayer.Age</h2>
+    <h2>Strength: @IndexModel.newPlayer.Strength</h2>
+    <h2>Race: @IndexModel.newPlayer.Race</h2>
+   
+</div>
